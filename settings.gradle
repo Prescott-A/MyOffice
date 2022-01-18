@@ -1,2 +1,3 @@
 rootProject.name = "MyOffice"
 include ':app'
+include ':mvp'
